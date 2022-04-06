@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-char* get_file_content(char *file_name){
+char* get_file_content(char *file_name) {
     FILE *file;
     char *text;
     long numbytes;
@@ -37,4 +37,3 @@ int main(int argc, char *argv[]) {
     
     return EXIT_SUCCESS;
 }
-
