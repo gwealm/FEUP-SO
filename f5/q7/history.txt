@@ -1,0 +1,4 @@
+ls
+pwd
+ls -altr
+aaaaaaa
